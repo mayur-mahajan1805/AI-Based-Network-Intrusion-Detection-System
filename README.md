@@ -1,4 +1,4 @@
----
+----
 title: AI NIDS Student Project
 emoji: 🛡️
 colorFrom: blue
@@ -7,7 +7,7 @@ sdk: streamlit
 sdk_version: 1.39.0
 app_file: app.py
 pinned: false
----
+----
 
 # 🛡️ AI-Based Network Intrusion Detection System (Student Project)
 
